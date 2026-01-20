@@ -1,3 +1,3 @@
 # demo1
-This is my git repository
+This is my git repository.
 Author-Deepak Dalvi
